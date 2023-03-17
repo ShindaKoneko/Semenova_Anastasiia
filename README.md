@@ -14,11 +14,10 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-<div>
-### About me
-- 🌱 I’m currently learning **Web3, GameDev**
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
-</div>	
+<ul>
+	<h3> About me</h3>
+	<li> 🌱 I’m currently learning **Web3, GameDev** </li>
+	<li> 📄 Know about my experiences <a href="https://hh.ru/resume/2fa2174aff0bc72b7b0039ed1f75615a617671">resume</a></li>
+	<li> 📫 Reach me by email <a href="anastasia.semenovagcore@gmail.com">email</a></li>
+	<li> 🌍 I still have a basic knowledge of English and Japanese </li>
+</ul>
