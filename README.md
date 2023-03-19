@@ -30,5 +30,5 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/900px-HeidiSQL_logo_image.png" width="40" height="40"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TeamCity_Icon.png/1200px-TeamCity_Icon.png" width="40" height="40">
-	<img src="https://dd-static.jd.com/ddimg/jfs/t1/119675/40/28628/35286/62bf1ccfEf6712210/59b1edb57c92011f.png" width="40" height="40">
+	<img src="https://media.trustradius.com/product-logos/h3/JA/T1A83W5H538P.PNG" width="40" height="40">
 </p>
