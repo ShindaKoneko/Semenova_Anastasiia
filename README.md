@@ -29,4 +29,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"> 
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"> 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HeidiSQL_logo_image.png/900px-HeidiSQL_logo_image.png" width="40" height="40"> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TeamCity_Icon.png/1200px-TeamCity_Icon.png" width="40" height="40">
+	<img src="https://yandex.ru/images/search?from=tabbar&text=%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8%20%D0%BD%D0%B0%20%D0%B8%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8%20%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF%D0%BE%D0%B2%20Postman&pos=3&img_url=http%3A%2F%2Fassets.stickpng.com%2Fimages%2F62cc1b51150d5de9a3dad5f8.png&rpt=simage&lr=10335" width="40" height="40">
 </p>
