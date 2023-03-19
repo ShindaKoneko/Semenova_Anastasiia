@@ -19,7 +19,12 @@
 	<li> 🌍 I still have a basic knowledge of English and Japanese </li>
 </ul>
 <h3> Tools</h3>
-### Languages and tools
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Фотография 1" width="120" height="120">
+    <img src="images/thumb2.jpg" alt="Фотография 2" width="120" height="120">
+    <img src="images/thumb3.jpg" alt="Фотография 3" width="120" height="120">
+    <img src="images/thumb4.jpg" alt="Фотография 4" width="120" height="120">
+</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
