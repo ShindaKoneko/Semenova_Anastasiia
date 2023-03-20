@@ -37,5 +37,5 @@
 <h3> My works at Tilda</h3>
 <div id="stat" align="center">
 	<a href="http://konnyiclubaprel.tilda.ws/"> 
-		<a href="https://yapx.ru/image/VyU1V" title="Изображение загружено на фотохостинг yapx.ru"><img src="https://i.yapx.ru/VyU1Vs.png" alt="Хостинг картинок yapx.ru"> </a>
+		<img src="https://i.yapx.ru/VyU1Vs.png" alt="конный"> </a>
 </div>
