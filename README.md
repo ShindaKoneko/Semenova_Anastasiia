@@ -32,7 +32,7 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TeamCity_Icon.png/1200px-TeamCity_Icon.png" width="40" height="40">
 	<img src="https://media.trustradius.com/product-logos/h3/JA/T1A83W5H538P.PNG" width="40" height="40">
 	<img src="https://cdn.download.it/gen/testrail-100x100.png" width="40" height="40">
-	<img src="https://ru.wikipedia.org/wiki/Tilda_Publishing#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Tilda_Logo.png" width="40" height="40">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Tilda_Logo.png" width="40" height="40">
 </p>
 <h3> My stat</h3>
 <div id="stat" align="center">
