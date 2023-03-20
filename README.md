@@ -37,5 +37,5 @@
 <h3> My works at Tilda</h3>
 <div id="stat" align="center">
 	<a href="http://konnyiclubaprel.tilda.ws/"> 
-		<img src="https://i.yapx.ru/VyU1V.png" alt="Конный клуб"/> </a>
+		<img src="https://i.yapx.ru/VyU1V.png" width="120" height="80"> </a>
 </div>
