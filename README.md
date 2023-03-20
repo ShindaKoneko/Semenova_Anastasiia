@@ -37,7 +37,7 @@
 <h3> My works at Tilda</h3>
 <div id="stat" align="center">
 	<a href="http://konnyiclubaprel.tilda.ws/"> 
-		<img src="https://gcorelu-my.sharepoint.com/personal/anastasia_semenova_gcore_lu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fanastasia%5Fsemenova%5Fgcore%5Flu%2FDocuments%2FUntitled%2Epng&parent=%2Fpersonal%2Fanastasia%5Fsemenova%5Fgcore%5Flu%2FDocuments"/> 
+		<img src="blob:https://web.telegram.org/7e3027e0-73d2-45f5-bf55-6e9009188888"/> 
 	</a>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark"/>
