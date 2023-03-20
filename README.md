@@ -34,9 +34,9 @@
 	<img src="https://cdn.download.it/gen/testrail-100x100.png" width="40" height="40">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Tilda_Logo.png" width="40" height="40">
 </p>
-<h3> My stat</h3>
+<h3> My works at Tilda</h3>
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark"/>
+	<img src="http://konnyiclubaprel.tilda.ws/"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark"/>
 </div>
