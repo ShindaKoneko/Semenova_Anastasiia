@@ -13,8 +13,8 @@
 </div>
 <h3> About me</h3>
 <ul>
-	li> 🌱 I am currently learning Python for test automation </li>
-	<li> 📄 Know about my experiences <a href="https://hh.ru/resume/2fa2174aff0bc72b7b0039ed1f75615a617671">resume</a></li>
+	<li> 🌱 I am currently learning Python for test automation </li>
+	<li> 📄 Know about my skills <a href="https://hh.ru/resume/2fa2174aff0bc72b7b0039ed1f75615a617671">resume</a></li>
 	<li> 📫 Reach me by email <a href="anastasia.semenovagcore@gmail.com">email</a></li>
 	<li> 🌍 I still have a basic knowledge of English and Japanese </li>
 </ul>
