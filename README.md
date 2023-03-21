@@ -37,7 +37,7 @@
 <h3> My works at Tilda</h3>
 <div id="stat" align="center">
 	<a href="http://konnyiclubaprel.tilda.ws/"> 
-		<img src="https://i.yapx.ru/VyU1Vs.png" alt="конный"> </a>
+		<img src="https://static.tildacdn.com/tild3635-6135-4834-b465-313662343332/young-woman-in-speci.jpg" width="320" height="200"> </a>
 	<a href="http://anastasiiasemenova.tilda.ws/"> 
 		<img src="https://i.yapx.ru/VyU1Vs.png" alt="конный"> </a>
 	<a href="http://dreamonperm.tilda.ws/"> 
