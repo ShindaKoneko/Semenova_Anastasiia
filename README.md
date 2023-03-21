@@ -40,4 +40,6 @@
 		<img src="https://i.yapx.ru/VyU1Vs.png" alt="конный"> </a>
 	<a href="http://anastasiiasemenova.tilda.ws/"> 
 		<img src="https://i.yapx.ru/VyU1Vs.png" alt="конный"> </a>
+	<a href="http://dreamonperm.tilda.ws/"> 
+		<img src="https://i.yapx.ru/VyU1Vs.png" alt="конный"> </a>
 </div>
