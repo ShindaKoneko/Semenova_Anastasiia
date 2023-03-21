@@ -41,5 +41,5 @@
 	<a href="http://anastasiiasemenova.tilda.ws/"> 
 		<img src="https://i.yapx.ru/VyU1Vs.png" alt="конный"> </a>
 	<a href="http://dreamonperm.tilda.ws/"> 
-		<img src="https://static.tildacdn.com/tild3464-3236-4164-b465-386534613838/-119843043_457239343.jpg" width="140" height="100"> </a>
+		<img src="https://static.tildacdn.com/tild3464-3236-4164-b465-386534613838/-119843043_457239343.jpg" width="260" height="180"> </a>
 </div>
